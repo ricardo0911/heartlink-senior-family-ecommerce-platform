@@ -1,0 +1,222 @@
+﻿{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "连心选"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/register/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/forgot-password/forgot-password",
+      "style": {
+        "navigationBarTitleText": "忘记密码"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "健康档案"
+      }
+    },
+    {
+      "path": "pages/products/products",
+      "style": {
+        "navigationBarTitleText": "商品列表"
+      }
+    },
+    {
+      "path": "pages/product-detail/product-detail",
+      "style": {
+        "navigationBarTitleText": "商品详情"
+      }
+    },
+    {
+      "path": "pages/try-on/try-on",
+      "style": {
+        "navigationBarTitleText": "AI试穿"
+      }
+    },
+    {
+      "path": "pages/shelf/shelf",
+      "style": {
+        "navigationBarTitleText": "心选"
+      }
+    },
+    {
+      "path": "pages/ai-chat/ai-chat",
+      "style": {
+        "navigationBarTitleText": "AI推荐"
+      }
+    },
+    {
+      "path": "pages/orders/orders",
+      "style": {
+        "navigationBarTitleText": "我的订单"
+      }
+    },
+    {
+      "path": "pages/order-detail/order-detail",
+      "style": {
+        "navigationBarTitleText": "订单详情"
+      }
+    },
+    {
+      "path": "pages/favorites/favorites",
+      "style": {
+        "navigationBarTitleText": "我的收藏"
+      }
+    },
+    {
+      "path": "pages/bind/bind",
+      "style": {
+        "navigationBarTitleText": "绑定长辈"
+      }
+    },
+    {
+      "path": "pages/my/my",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/account/account",
+      "style": {
+        "navigationBarTitleText": "编辑资料"
+      }
+    },
+    {
+      "path": "pages/member/member",
+      "style": {
+        "navigationBarTitleText": "会员中心"
+      }
+    },
+    {
+      "path": "pages/payment-requests/payment-requests",
+      "style": {
+        "navigationBarTitleText": "代付请求"
+      }
+    },
+    {
+      "path": "pages/payment/payment",
+      "style": {
+        "navigationBarTitleText": "微信支付"
+      }
+    },
+    {
+      "path": "pages/refund/refund",
+      "style": {
+        "navigationBarTitleText": "退款申请"
+      }
+    },
+    {
+      "path": "pages/chat/chat",
+      "style": {
+        "navigationBarTitleText": "聊天"
+      }
+    },
+    {
+      "path": "pages/address/address",
+      "style": {
+        "navigationBarTitleText": "地址管理"
+      }
+    },
+    {
+      "path": "pages/address/edit",
+      "style": {
+        "navigationBarTitleText": "编辑地址"
+      }
+    },
+    {
+      "path": "pages/coupon/coupon",
+      "style": {
+        "navigationBarTitleText": "优惠券"
+      }
+    },
+    {
+      "path": "pages/sos/sos",
+      "style": {
+        "navigationBarTitleText": "SOS联系人"
+      }
+    },
+    {
+      "path": "pages/report/report",
+      "style": {
+        "navigationBarTitleText": "健康周报"
+      }
+    },
+    {
+      "path": "pages/alerts/alerts",
+      "style": {
+        "navigationBarTitleText": "异常预警"
+      }
+    },
+    {
+      "path": "pages/parent-push/parent-push",
+      "style": {
+        "navigationBarTitleText": "心选"
+      }
+    },
+    {
+      "path": "pages/child-order-hub/child-order-hub",
+      "style": {
+        "navigationBarTitleText": "心选"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "连心选子女版",
+    "navigationBarBackgroundColor": "#0A84FF",
+    "backgroundColor": "#F4F6FA"
+  },
+  "tabBar": {
+    "color": "#7C8798",
+    "selectedColor": "#0A84FF",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/products/products",
+        "iconPath": "static/icons/shop.png",
+        "selectedIconPath": "static/icons/shop-active.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/ai-chat/ai-chat",
+        "iconPath": "static/icons/ai.png",
+        "selectedIconPath": "static/icons/ai-active.png",
+        "text": "AI推荐"
+      },
+      {
+        "pagePath": "pages/shelf/shelf",
+        "iconPath": "static/icons/heart.png",
+        "selectedIconPath": "static/icons/heart-active.png",
+        "text": "心选"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/icons/user.png",
+        "selectedIconPath": "static/icons/user-active.png",
+        "text": "我的"
+      }
+    ]
+  }
+}

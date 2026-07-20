@@ -1,0 +1,9 @@
+===========================================
+   HeartLink AI Service v3.0
+   AI Enabled: True
+   Model Connected: deepseek-chat
+   Base URL: https://api.deepseek.com/v1
+   API: http://localhost:8090
+===========================================
+INFO:     127.0.0.1:57633 - "POST /api/tryon/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63695 - "GET /api/tryon/tasks/5d249b41-8533-43fa-a3b3-6deb3528e815 HTTP/1.1" 200 OK

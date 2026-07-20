@@ -1,0 +1,41 @@
+===========================================
+   HeartLink AI Service v3.0
+   AI Enabled: True
+   Model Connected: deepseek-chat
+   Base URL: https://api.deepseek.com/v1
+   API: http://localhost:8090
+===========================================
+INFO:     127.0.0.1:61668 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60924 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52845 - "POST /api/tryon/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57291 - "GET /api/tryon/tasks/f2196041-a364-44d6-b889-0f0f69be8de6 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56477 - "GET /generated/tryon/f2196041-a364-44d6-b889-0f0f69be8de6/result.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50622 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51234 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62509 - "POST /api/generate/greeting HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60851 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62248 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51574 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52694 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64311 - "POST /api/tryon/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64471 - "GET /api/tryon/tasks/8ab7161d-739d-46f0-a81a-0119fd8c8994 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /generated/tryon/8ab7161d-739d-46f0-a81a-0119fd8c8994/result.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53221 - "GET /generated/tryon/8ab7161d-739d-46f0-a81a-0119fd8c8994/result.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64609 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55332 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58609 - "POST /api/generate/greeting HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58609 - "POST /api/generate/greeting HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65474 - "POST /api/generate/greeting HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65474 - "POST /api/generate/greeting HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60605 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63537 - "POST /api/tryon/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55677 - "GET /api/tryon/tasks/c22270e7-ffad-47ee-8876-296affcde0b9 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57513 - "GET /generated/tryon/c22270e7-ffad-47ee-8876-296affcde0b9/result.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51343 - "POST /api/tryon/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55701 - "GET /api/tryon/tasks/40a84ad8-20dc-45dc-a917-ed7fe81cff85 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65484 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56287 - "POST /api/analyze/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51364 - "POST /api/tryon/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /api/tryon/tasks/06deaa53-bff8-46bc-b5c1-501538ca4882 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51709 - "GET /generated/tryon/06deaa53-bff8-46bc-b5c1-501538ca4882/result.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49896 - "POST /api/analyze/health HTTP/1.1" 200 OK

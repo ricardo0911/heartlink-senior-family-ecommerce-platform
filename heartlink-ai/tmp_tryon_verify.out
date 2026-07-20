@@ -1,0 +1,8 @@
+===========================================
+   HeartLink AI Service v3.0
+   AI Enabled: True
+   Model Connected: deepseek-chat
+   Base URL: https://api.deepseek.com/v1
+   API: http://localhost:8090
+===========================================
+INFO:     127.0.0.1:49887 - "POST /api/tryon/tasks HTTP/1.1" 502 Bad Gateway
